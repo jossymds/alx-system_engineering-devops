@@ -1,1 +1,2 @@
-#!/bin/bash\necho cd
+#!/bin/bash
+cd
